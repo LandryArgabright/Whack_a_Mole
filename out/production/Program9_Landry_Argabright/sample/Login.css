@@ -1,0 +1,41 @@
+root
+{
+display: block;
+}
+
+.root
+{
+-fx-background-image: url("background.jpg");
+}
+
+.text
+{
+-fx-fill: yellow;
+ -fx-font-weight: bold;
+ -fx-font: 20px Sans-Serif;
+
+}
+
+.text
+{
+-fx-fill: yellow;
+ -fx-font-weight: bold;
+ -fx-font: 20px Sans-Serif;
+
+ }
+
+.text
+{
+-fx-fill: white;
+ -fx-font-weight: bold;
+ -fx-font: 20px Sans-Serif;
+
+}
+
+.text
+{
+-fx-fill: black;
+ -fx-font-weight: bold;
+ -fx-font: 20px Sans-Serif;
+
+}
